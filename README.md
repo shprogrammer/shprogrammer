@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**sxsh1997/sxsh1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shprogrammer/shprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
